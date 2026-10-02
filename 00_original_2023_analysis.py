@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-df = pd.read_csv("/Users/kishoremadanagopal/Desktop/Python Final Project Documents/AB_NYC_2019.csv")
+df = pd.read_csv("AB_NYC_2019.csv")
 
 print(df.head())  # Display the first few rows to understand the structure of the data
 print(df.info())  # Check data types and missing values

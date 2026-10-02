@@ -23,7 +23,7 @@ This repository contains two iterations of the project:
 │
 ├── AB_NYC_2019.csv                  ← source dataset
 ├── Airbnb Analysis.pdf              ← original 2023 course report
-├── python pp final code .py         ← original 2023 script
+├── 00_original_2023_analysis.py     ← original 2023 script
 │
 ├── 01_analysis.ipynb                ← EDA notebook with narration (start here)
 ├── 02_sql_analysis.sql              ← analytical SQL queries
@@ -105,4 +105,4 @@ NYC Airbnb Open Data (2019). Available on [Kaggle](https://www.kaggle.com/datase
 
 ## Original (2023) coursework
 
-`Airbnb Analysis.pdf` and `python pp final code .py` are preserved from the original Oklahoma State University course project. The 2026 extension adds the full data stack on top — see the project structure above.
+`Airbnb Analysis.pdf` and `00_original_2023_analysis.py` are preserved from the original Oklahoma State University course project. The 2026 extension adds the full data stack on top — see the project structure above.
